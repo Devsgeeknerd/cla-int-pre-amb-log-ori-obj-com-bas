@@ -1,46 +1,45 @@
 <!-- Título -->
-# Lógica Para Programação — Avançado na Programação
+# Introdução
 
-***Conteúdo do Curso:***
+***Conteúdo da Aula:***
 
-* [ ] [Estruturas Condicionais.](https://github.com/Devsgeeknerd/mod-est-con-log-par-pro-ava-pro-bas) &#128679;
-* [ ] [Estruturas de Repetição.](https://github.com/Devsgeeknerd/mod-est-rep-log-par-pro-ava-pro-bas) &#128679;
-* [ ] [Funções.](https://github.com/Devsgeeknerd/mod-fun-log-par-pro-ava-pro-bas) &#128679;
-* [ ] [Estrutura de Dados.](https://github.com/Devsgeeknerd/mod-est-dad-log-par-pro-ava-pro-bas) &#128679;
+O nosso objetivo neste curso é que você entenda os princípios das linguagens e da modelagem orientada a objetos, um paradigma muito presente nas linguagens modernas.
 
-A lógica para programação é uma habilidade essencial para todo programador, independentemente da linguagem de programação utilizada.
+Nós queremos que você adquira a capacidade de, com este curso, modelar qualquer projeto que você venha a desenvolver de acordo com o paradigma da orientação a objetos, isso de maneira independente do porte do projeto em questão:
 
-Com ela, é possível organizar o raciocínio para solucionar problemas de forma estruturada e lógica.
+* Desde projetos pequenos até projetos muito complexos.
 
-## Conhecimentos adquiridos
+Você pode estar se perguntando:
 
-Durante o curso, você irá aprimorar suas habilidades em programação, aprendendo a utilizar de forma eficiente as estruturas condicionais para tomar decisões em seu código, bem como as estruturas de repetição para automatizar tarefas e repetir ações.
+* **“por que devo aprender a orientação a objetos?”**
+  * Hoje, um desenvolvedor deve conhecer, dominar e aplicar a orientação a objetos em seus projetos porque este é o paradigma de desenvolvimento mais comum e mais adotado pelas linguagens de programação modernas.
+  * É difícil encontramos linguagens hoje em dia que não suportem a orientação a objetos, seja de maneira direta ou indireta.
+  * O mercado também tem uma alta demanda de profissionais que realmente conheçam e dominem este paradigma.
+  * Estes já são motivos suficientemente fortes para que estudemos o paradigma orientado a objetos.
 
-Também irá aprender como utilizar funções para tornar seu código mais organizado, modular e reutilizável, além de trabalhar com arrays, que são estruturas de dados que permitem armazenar múltiplos valores em uma única variável.
+Nós optamos por utilizar a plataforma **Java** para o desenvolvimento deste curso.
 
-Por fim, você irá aprender sobre objects, que são estruturas de dados mais complexas e poderosas que permitem armazenar dados de diferentes tipos em uma única variável, tornando o seu código mais flexível e escalável.
+Nós optamos por ela devido ao fato de o **Java** suportar a orientação a objetos e também pelo fato de ela ser utilizada extensivamente no ambiente acadêmico justamente para o ensino da orientação a objetos.
 
-### Dentre outras habilidades, você será capaz de:
+Além disso, o **Java** possui a sintaxe muito similar a outras linguagens modernas, o que facilita a curva de aprendizagem para que você possa aplicar os conceitos aqui vistos com **Java** em qualquer outra linguagem atual.
 
-* Utilizar estruturas condicionais para tomar decisões em seu código;
-* Utilizar estruturas de repetição para automatizar tarefas e repetir ações;
-* Criar funções para tornar seu código mais modular e reutilizável;
-* Utilizar arrays para armazenar e manipular múltiplos valores;
-* Utilizar objects para armazenar dados de diferentes tipos em uma única variável.
+O que importa para nós é que você absorva plenamente todos os conceitos que veremos deste ponto em diante.
+
+Depois de tudo, isso, vamos finalmente começar!!!
 
 <!-- Informações -->
 ## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-log-par-pro-ava-pro-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-int-int-log-ori-obj-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-log-par-pro-ava-pro-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cur-log-par-pro-ava-pro-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cur-log-par-pro-ava-pro-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cur-log-par-pro-ava-pro-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/cur-log-par-pro-ava-pro-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
